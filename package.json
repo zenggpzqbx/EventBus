@@ -1,6 +1,6 @@
 {
   "name": "@zqbx/event-bus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "全局事件总线，主要用于开发过程中的模块通信",
   "type": "module",
   "module": "main.js",
